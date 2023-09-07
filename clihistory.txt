@@ -1,0 +1,94 @@
+    1  git clone ^[[200~https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git~
+    2  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+    3  pwd
+    4  ls -a
+    5  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+    6  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+    7  git clone
+    8  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+    9  mkdir friii
+   10  cd friii
+   11  git init
+   12  cd https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   13  git clone
+   14  git clone 
+   15  $ git clone https://github.com/Zaent
+   16  pwd
+   17  git clone
+   18  git clone [200~
+   19  git clone [200~
+   20  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   21  git clone
+   22  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   23  mkdir assignment1
+   24  cd assignment1
+   25  cd CISC3115_ZaentsuiN
+   26  cd assignment1
+   27  cd assignment1
+   28  mkdir as
+   29  cd javacode
+   30  mkdir as
+   31  mkdir javacode
+   32  cd /
+   33  mkdir javacode
+   34  cd javacode
+   35  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   36  git clone
+   37  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   38  cd CISC3115_ZaentsuiN
+   39  pwd
+   40  cd
+   41  pwd
+   42  cd
+   43  pwd
+   44  git remote add origin https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   45  git remote add  https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   46  cd /CISC3115_ZaentsuiN
+   47  git remote add origin https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   48  git remote add origin https://github.com/ZaentsuiN/CISC9115_ZaentsuiN.git
+   49  git remote add  https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   50  git push
+   51  GIT PULL
+   52  git pull
+   53  git push
+   54  git push
+   55  cd C:\Users\845102\CISC3115_ZaentsuiN
+   56  pwd
+   57  cd ~C:\Users\845102
+   58  cd C:\Users\845102
+   59  pwd
+   60  cd C:\Program Files\Git
+   61  cd C\Program Files\Git
+   62  cd C/Program Files/Git
+   63  v1 poopopo.txt
+   64  vl poop.txt
+   65  vi
+   66  pwd
+   67  ~C/Users/845102/Downloads/Documents
+   68  pwd
+   69  cd ~/Downloads/
+   70  pwd
+   71  cd cd
+   72  $ cd DocumentsDocuments
+   73  [200~
+   74   
+   75  cd ~/Downloads/Documents/
+   76  pwd
+   77  git clone https://github.com/Yunhua468/CISC3115_ZaentsuiN.git
+   78  history > clihistory.txt
+   79  cd ~/Downloads/Documents/
+   80  pwd
+   81  git clone https://github.com/ZaentsuiN/CISC3115_ZaentsuiN.git
+   82  cd CISC3115_ZaentsuiN
+   83  mkdir assignment1
+   84  mkdir javacode
+   85  ls
+   86  cd javacode
+   87  vi HelloWorld.java
+   88  pwd
+   89  vi HelloWorld.java
+   90  ls
+   91  cd.. 
+   92  cd ..
+   93  ls -l
+   94  history > clihistory.txt
