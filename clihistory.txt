@@ -61,7 +61,7 @@
    61  cd C\Program Files\Git
    62  cd C/Program Files/Git
    63  v1 poopopo.txt
-   64  vl poop.txt
+   64  vl pooop.txt
    65  vi
    66  pwd
    67  ~C/Users/845102/Downloads/Documents
