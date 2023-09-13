@@ -7,5 +7,5 @@ public static int m1(int[] a) {
         }
         i++;
     }
-    return sum;
+    rturn sum;
 }
